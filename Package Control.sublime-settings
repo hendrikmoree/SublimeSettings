@@ -1,0 +1,28 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"ChangeQuotes",
+		"Copy File Name",
+		"Display Functions (Java)",
+		"EasyMotion",
+		"FindKeyConflicts",
+		"Indent XML",
+		"Missing Palette Commands",
+		"Package Control",
+		"Pretty JSON",
+		"SeecrPythonScopeSelector",
+		"SeecrSnippets",
+		"SeecrSpellCorrector",
+		"SideBarEnhancements",
+		"Status Bar Time",
+		"SublimeAllAutocomplete",
+		"SublimeJava",
+		"SyncedSideBar",
+		"TrailingSpaces"
+	],
+	"repositories":
+	[
+		"https://github.com/seecr/SublimeAllAutocomplete.git",
+	]
+}

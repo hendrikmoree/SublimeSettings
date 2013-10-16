@@ -1,0 +1,8 @@
+{
+    "sublimejava_classpath": [
+        "/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar",
+        "/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/alt-rt.jar",
+        "/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/alt-string.jar",
+        "/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/dt.jar"
+    ]
+}

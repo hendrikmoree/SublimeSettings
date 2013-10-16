@@ -1,0 +1,6 @@
+[
+    { "keys": ["f5"], "command": "show_panel", "args": {"panel": "output.exec"}},
+    { "keys": ["option+shift+space"], "command": "expand_selection", "args": {"to": "scope"}},
+    { "keys": ["home"], "command":"move_to", "args":{"to":"bol"}},
+    { "keys": ["end"], "command":"move_to", "args":{"to":"eol"}}
+]

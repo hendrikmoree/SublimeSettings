@@ -1,0 +1,13 @@
+{
+    "sublimelinter_delay": 1,
+    "sublimelinter_gutter_marks": true,
+    "sublimelinter_popup_errors_on_save": false,
+    "pep8": false,
+    "sublimelinter_mark_style": "outline",
+    "sublimelinter_syntax_map": {
+        "Python Django": "python",
+        "Ruby on Rails": "ruby",
+        "C++": "c",
+        "Python": "python2"
+    }
+}

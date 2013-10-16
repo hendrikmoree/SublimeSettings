@@ -1,0 +1,11 @@
+{
+    "cmd": ["bash", "tests.sh", "alltests", "$file"],
+    "working_dir": "/Users/hendrik/Library/Application Support/Sublime Text 2/Packages/User",
+    "variants": [
+        {
+            "cmd": ["bash", "tests.sh", "integrationtest", "$file"],
+            "working_dir": "/Users/hendrik/Library/Application Support/Sublime Text 2/Packages/User",
+            "name": "Run"
+        }
+    ]
+}
