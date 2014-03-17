@@ -2,27 +2,40 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"AAAPackageDev",
+		"BetterFindBuffer",
 		"ChangeQuotes",
 		"Copy File Name",
-		"Display Functions (Java)",
+		"EasyDiff",
 		"EasyMotion",
 		"FindKeyConflicts",
 		"Indent XML",
+		"iOpener",
+		"MaxPane",
 		"Missing Palette Commands",
 		"Package Control",
-		"Pretty JSON",
+		"ScopeHunter",
 		"SeecrPythonScopeSelector",
 		"SeecrSnippets",
 		"SeecrSpellCorrector",
 		"SideBarEnhancements",
+		"SPARQL",
 		"Status Bar Time",
+		"sublime-haproxy",
 		"SublimeAllAutocomplete",
-		"SublimeJava",
+		"SublimeLinter",
+		"SublimeLinter-javac",
+		"SublimeLinter-pyflakes",
+		"SublimeLinter-pylint",
 		"SyncedSideBar",
-		"TrailingSpaces"
+		"Terminal Notifier",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"URLEncode"
 	],
 	"repositories":
 	[
 		"https://github.com/seecr/SublimeAllAutocomplete.git",
+		"https://github.com/ingeniarius/sublime-haproxy.git"
 	]
 }

@@ -1,4 +1,5 @@
 {
+	"atomic_save": false,
 	"auto_complete_triggers":
 	[
 		{
@@ -6,7 +7,8 @@
 			"selector": "source.python"
 		}
 	],
-	"color_scheme": "Packages/User/Monokai_Custom.tmTheme",
+	"color_scheme": "Packages/User/Monokai_Custom (SL).tmTheme",
+	"enable_tab_scrolling": false,
 	"find_selected_text": true,
 	"folder_exclude_patterns":
 	[
@@ -17,16 +19,21 @@
 		"._.TemporaryItems",
 		".apdisk"
 	],
+	"font_options":
+	[
+		"antialias"
+	],
 	"font_size": 12.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Display Functions (Java)"
+		"Vintage"
 	],
 	"reveal-on-activate": false,
 	"shift_tab_unindent": false,
+	"soda_folder_icons": true,
+	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"use_simple_full_screen": true,
 	"word_separators": "\\()\"':,.;<>~!@#%^&|+=[]{}`~?",
