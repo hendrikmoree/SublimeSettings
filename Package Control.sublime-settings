@@ -2,7 +2,6 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
-		"AAAPackageDev",
 		"BetterFindBuffer",
 		"ChangeQuotes",
 		"Copy File Name",
@@ -14,7 +13,6 @@
 		"MaxPane",
 		"Missing Palette Commands",
 		"Package Control",
-		"ScopeHunter",
 		"SeecrPythonScopeSelector",
 		"SeecrSnippets",
 		"SeecrSpellCorrector",
@@ -29,9 +27,9 @@
 		"SublimeLinter-pylint",
 		"SyncedSideBar",
 		"Terminal Notifier",
+		"Theme - Afterglow",
 		"Theme - Soda",
-		"TrailingSpaces",
-		"URLEncode"
+		"TrailingSpaces"
 	],
 	"repositories":
 	[

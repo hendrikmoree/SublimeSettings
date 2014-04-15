@@ -1,6 +1,3 @@
 {
-    /*
-     * Run alltests.sh for the current test after each save.
-     */
-    "liveTestRunner": true
+	"liveTestRunner": true
 }

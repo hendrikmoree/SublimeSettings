@@ -7,7 +7,7 @@
 			"selector": "source.python"
 		}
 	],
-	"color_scheme": "Packages/User/Monokai_Custom (SL).tmTheme",
+	"color_scheme": "Packages/User/Afterglow (SL).tmTheme",
 	"enable_tab_scrolling": false,
 	"find_selected_text": true,
 	"folder_exclude_patterns":
@@ -33,7 +33,8 @@
 	"reveal-on-activate": false,
 	"shift_tab_unindent": false,
 	"soda_folder_icons": true,
-	"theme": "Soda Dark.sublime-theme",
+	"tabs_medium": true,
+	"theme": "Afterglow-blue.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"use_simple_full_screen": true,
 	"word_separators": "\\()\"':,.;<>~!@#%^&|+=[]{}`~?",
