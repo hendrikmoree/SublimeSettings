@@ -33,6 +33,7 @@
 	"reveal-on-activate": false,
 	"shift_tab_unindent": false,
 	"soda_folder_icons": true,
+	"status_bar_brighter": true,
 	"tabs_medium": true,
 	"theme": "Afterglow-blue.sublime-theme",
 	"translate_tabs_to_spaces": true,
