@@ -254,10 +254,12 @@
       <string>markup.inserted</string>
       <key>settings</key>
       <dict>
-        <key>background</key>
+        <!-- <key>background</key>
         <string>#144212</string>
         <key>foreground</key>
-        <string>#E6E1DC</string>
+        <string>#E6E1DC</string>-->
+        <key>foreground</key>
+        <string>#b4c973</string>
       </dict>
     </dict>
     <dict>
@@ -267,23 +269,27 @@
       <string>markup.deleted</string>
       <key>settings</key>
       <dict>
-        <key>background</key>
+<!--         <key>background</key>
         <string>#660000</string>
         <key>foreground</key>
         <string>#E6E1DC</string>
+ -->        <key>foreground</key>
+        <string>#b05252</string>
       </dict>
     </dict>
     <dict>
       <key>name</key>
-      <string>Diff Add</string>
+      <string>Diff Changed</string>
       <key>scope</key>
       <string>markup.changed</string>
       <key>settings</key>
       <dict>
-        <key>background</key>
+      <!-- <key>background</key>
         <string>#c6a804</string>
         <key>foreground</key>
-        <string>#ffffff</string>
+        <string>#ffffff</string>-->
+        <key>foreground</key>
+        <string>#E5B567</string>
       </dict>
     </dict>
     <dict>
@@ -316,7 +322,7 @@
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#FFFF00</string>
+                <string>#a0830d</string>
             </dict>
         </dict>
         <dict>
@@ -327,7 +333,7 @@
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#FF0000</string>
+                <string>#a70510</string>
             </dict>
         </dict>
 
