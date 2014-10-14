@@ -4,16 +4,20 @@
 	[
 		"BetterFindBuffer",
 		"ChangeQuotes",
+		"Chmod",
+		"ColorPicker",
 		"Copy File Name",
 		"EasyDiff",
 		"EasyMotion",
 		"FindKeyConflicts",
+		"GhostText",
 		"Indent XML",
 		"iOpener",
 		"LiveStyle",
 		"MaxPane",
 		"Missing Palette Commands",
 		"Package Control",
+		"rsub",
 		"SeecrPythonScopeSelector",
 		"SeecrSnippets",
 		"SeecrSpellCorrector",
@@ -29,7 +33,6 @@
 		"SyncedSideBar",
 		"Terminal Notifier",
 		"Theme - Afterglow",
-		"Theme - Soda",
 		"TrailingSpaces"
 	],
 	"repositories":
