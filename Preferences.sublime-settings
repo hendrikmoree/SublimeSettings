@@ -28,8 +28,12 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"SublimeJava",
+		"SeecrSublimeJava",
+		"SublimeLinter-javac",
 	],
+	"java_classpath_dir": "/tmp/java_classpath",
 	"reveal-on-activate": false,
 	"shift_tab_unindent": false,
 	"soda_folder_icons": true,
