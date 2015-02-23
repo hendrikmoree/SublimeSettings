@@ -28,10 +28,12 @@
 		"Status Bar Time",
 		"sublime-haproxy",
 		"SublimeAllAutocomplete",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-javac",
 		"SublimeLinter-pyflakes",
 		"SublimeLinter-pylint",
+		"Tag",
 		"Terminal Notifier",
 		"Theme - Afterglow",
 		"TrailingSpaces"
