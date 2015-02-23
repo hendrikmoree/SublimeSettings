@@ -1,5 +1,8 @@
 {
 	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"BetterFindBuffer",
@@ -7,7 +10,6 @@
 		"Chmod",
 		"ColorPicker",
 		"Copy File Name",
-		"EasyDiff",
 		"EasyMotion",
 		"FindKeyConflicts",
 		"GhostText",
@@ -30,7 +32,6 @@
 		"SublimeLinter-javac",
 		"SublimeLinter-pyflakes",
 		"SublimeLinter-pylint",
-		"SyncedSideBar",
 		"Terminal Notifier",
 		"Theme - Afterglow",
 		"TrailingSpaces"

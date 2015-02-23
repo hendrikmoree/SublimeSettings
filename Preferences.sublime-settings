@@ -7,7 +7,7 @@
 			"selector": "source.python"
 		}
 	],
-	"color_scheme": "Packages/User/Afterglow (SL).tmTheme",
+	"color_scheme": "Packages/User/Afterglow-monokai (SL).tmTheme",
 	"enable_tab_scrolling": false,
 	"find_selected_text": true,
 	"folder_exclude_patterns":
@@ -28,10 +28,10 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
 		"SublimeJava",
-		"SeecrSublimeJava",
 		"SublimeLinter-javac",
+		"Vintage",
+		"SeecrSublimeJava"
 	],
 	"java_classpath_dir": "/tmp/java_classpath",
 	"reveal-on-activate": false,
