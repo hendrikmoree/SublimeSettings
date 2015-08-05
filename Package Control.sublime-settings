@@ -1,5 +1,9 @@
 {
 	"auto_upgrade_last_run": null,
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json"
+	],
 	"in_process_packages":
 	[
 	],
@@ -7,32 +11,33 @@
 	[
 		"BetterFindBuffer",
 		"ChangeQuotes",
+		"ChannelRepositoryTools",
+		"Character Table",
 		"Chmod",
 		"ColorPicker",
-		"Copy File Name",
 		"EasyMotion",
 		"FindKeyConflicts",
 		"GhostText",
-		"Indent XML",
+		"HTML5",
 		"iOpener",
+		"jQuery",
 		"LiveStyle",
 		"MaxPane",
 		"Missing Palette Commands",
 		"Package Control",
-		"rsub",
-		"SeecrPythonScopeSelector",
 		"SeecrSnippets",
 		"SeecrSpellCorrector",
 		"SideBarEnhancements",
 		"SPARQL",
 		"Status Bar Time",
+		"StringEncode",
 		"sublime-haproxy",
-		"SublimeAllAutocomplete",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-javac",
 		"SublimeLinter-pyflakes",
 		"SublimeLinter-pylint",
+		"SublimeRemoteGit",
 		"Tag",
 		"Terminal Notifier",
 		"Theme - Afterglow",
@@ -41,6 +46,7 @@
 	"repositories":
 	[
 		"https://github.com/seecr/SublimeAllAutocomplete.git",
-		"https://github.com/ingeniarius/sublime-haproxy.git"
+		"https://github.com/ingeniarius/sublime-haproxy.git",
+		"http://repository.seecr.nl/customers/seecr-sublime/packages.json"
 	]
 }
