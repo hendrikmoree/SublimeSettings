@@ -1,30 +1,43 @@
 {
 	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
 	"channels":
 	[
 		"https://packagecontrol.io/channel_v3.json"
 	],
+	"ignore_vcs_packages": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
 		"BetterFindBuffer",
+		"Boxy Theme",
 		"ChangeQuotes",
 		"ChannelRepositoryTools",
 		"Character Table",
 		"Chmod",
 		"ColorPicker",
+		"ColorSchemeSelector",
 		"EasyMotion",
+		"Elixir",
+		"Enhanced Clojure",
 		"FindKeyConflicts",
+		"Fix Mac Path",
+		"Future Funk - Color Scheme",
 		"GhostText",
 		"HTML5",
 		"iOpener",
 		"jQuery",
+		"lispindent",
 		"LiveStyle",
 		"MaxPane",
 		"Missing Palette Commands",
+		"Nodejs",
 		"Package Control",
+		"PackageDev",
+		"PackageResourceViewer",
+		"Print to HTML",
 		"SeecrSnippets",
 		"SeecrSpellCorrector",
 		"SideBarEnhancements",
@@ -38,9 +51,11 @@
 		"SublimeLinter-pyflakes",
 		"SublimeLinter-pylint",
 		"SublimeRemoteGit",
+		"SublimeREPL",
 		"Tag",
 		"Terminal Notifier",
 		"Theme - Afterglow",
+		"Theme - Spacefunk",
 		"TrailingSpaces"
 	],
 	"repositories":

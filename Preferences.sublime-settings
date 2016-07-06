@@ -7,7 +7,7 @@
 			"selector": "source.python"
 		}
 	],
-	"color_scheme": "Packages/User/Afterglow-monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Otto Oceanic (SL).tmTheme",
 	"enable_tab_scrolling": false,
 	"find_selected_text": true,
 	"folder_exclude_patterns":
@@ -22,6 +22,7 @@
 	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
+	"ignore_vcs_packages": true,
 	"ignored_packages":
 	[
 		"SeecrSublimeJava",
@@ -30,9 +31,14 @@
 	"java_classpath_dir": "/tmp/java_classpath",
 	"reveal-on-activate": false,
 	"shift_tab_unindent": false,
-	"status_bar_brighter": true,
-	"tabs_medium": true,
-	"theme": "Afterglow-blue.sublime-theme",
+	"show_errors_inline": true,
+	"theme": "Boxy Ocean.sublime-theme",
+	"theme_size_md": true,
+	"theme_tab_line_size_lg": true,
+	"theme_tab_selected_filled": true,
+	"theme_tab_selected_prelined": true,
+	"theme_tab_selected_transparent": true,
+	"theme_tab_selected_underlined": true,
 	"translate_tabs_to_spaces": true,
 	"use_simple_full_screen": true,
 	"word_separators": "\\()\"':,.;<>~!@#%^&|+=[]{}`~?",
